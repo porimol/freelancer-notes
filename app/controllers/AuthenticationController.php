@@ -158,9 +158,9 @@ class AuthenticationController extends BaseController {
 	 */
 	public function changePassword()
 	{
-		Session::flash('flash_message', "Sorry, you have not permission."); // set the flash message
-        return Redirect::to('dashboard');
-		/*$input = [
+		//Session::flash('flash_message', "Sorry, you have not permission."); // set the flash message
+        //return Redirect::to('dashboard');
+		$input = [
 			'user_id' => Input::get('user_id'),
 			'password' 		=> Input::get('password'),
 			'confirm_pass' 	=> Input::get('confirm_pass')
@@ -205,7 +205,7 @@ class AuthenticationController extends BaseController {
 		{
 		    Session::flash('flash_message', $input['first_name']."'s"." was not found."); // set the flash message
             return Redirect::route("pass");
-		}*/
+		}
 	}
 
 
@@ -226,9 +226,8 @@ class AuthenticationController extends BaseController {
 	 */
 	public function updateProfile()
 	{
-		Session::flash('flash_message', "Sorry, you have not permission."); // set the flash message
-        return Redirect::to('dashboard');
-		/*
+		//Session::flash('flash_message', "Sorry, you have not permission."); // set the flash message
+        //return Redirect::to('dashboard');
 		$input = [
 			'user_id' => Input::get('user_id'),
 			'email' => Input::get('email'),
@@ -285,7 +284,6 @@ class AuthenticationController extends BaseController {
 		    Session::flash('flash_message', $input['first_name']."'s"." was not found."); // set the flash message
             return Redirect::route("profile_edit");
 		}
-		*/
 	}
 
 

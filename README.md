@@ -37,7 +37,10 @@
     please make sure you database name, username and pasword(if you have set your database password otherwise leave it blank)
     
  If you do everything perfectly then you can access the application
- 
+###Login Information
+User : user@user.com
+
+Pass : admin12345
 ###Login
 <img src="http://freelancernotes.techartisans.net/assets/demo-images/user-login.png">
 

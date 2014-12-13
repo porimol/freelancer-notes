@@ -1,6 +1,4 @@
 #Freelancer Notes
-==========
-
  Freelancer notes is an open source web application
  
  ## Laravel PHP Framework

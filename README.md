@@ -1,7 +1,7 @@
 #Freelancer Notes
  Freelancer notes is an open source web application
 #Installation Guide
-
+###PHP Version Minimum 5.4.0 require
 1) Download or Clone the project from right side
 
 2) Extract from zip (You can change the project name)

@@ -39,27 +39,33 @@
  If you do everything perfectly then you can access the application
 <img src="http://freelancernotes.techartisans.net/assets/demo-images/user-login.png">
 
-<img src="http://freelancernotes.techartisans.net/assets/demo-images/user-login.png">
+<img src="http://freelancernotes.techartisans.net/assets/demo-images/dashboard.png">
 
-<img src="http://freelancernotes.techartisans.net/assets/demo-images/user-login.png">
+<img src="http://freelancernotes.techartisans.net/assets/demo-images/new-client.png">
     
-<img src="http://freelancernotes.techartisans.net/assets/demo-images/user-login.png">
+<img src="http://freelancernotes.techartisans.net/assets/demo-images/all-clients.png">
 
-<img src="http://freelancernotes.techartisans.net/assets/demo-images/user-login.png">
+<img src="http://freelancernotes.techartisans.net/assets/demo-images/new-marketplace.png">
 
-<img src="http://freelancernotes.techartisans.net/assets/demo-images/user-login.png">
+<img src="http://freelancernotes.techartisans.net/assets/demo-images/all-marketplaces.png">
  
-<img src="http://freelancernotes.techartisans.net/assets/demo-images/user-login.png">
+<img src="http://freelancernotes.techartisans.net/assets/demo-images/new-project.png">
 
-<img src="http://freelancernotes.techartisans.net/assets/demo-images/user-login.png">
+<img src="http://freelancernotes.techartisans.net/assets/demo-images/all-projects.png">
 
-<img src="http://freelancernotes.techartisans.net/assets/demo-images/user-login.png">
+<img src="http://freelancernotes.techartisans.net/assets/demo-images/change-pass.png">
     
-<img src="http://freelancernotes.techartisans.net/assets/demo-images/user-login.png">
+<img src="http://freelancernotes.techartisans.net/assets/demo-images/edit-profile.png">
 
-<img src="http://freelancernotes.techartisans.net/assets/demo-images/user-login.png">
+<img src="http://freelancernotes.techartisans.net/assets/demo-images/reports.png">
 
-<img src="http://freelancernotes.techartisans.net/assets/demo-images/user-login.png">
+<img src="http://freelancernotes.techartisans.net/assets/demo-images/reports1.png">
+
+<img src="http://freelancernotes.techartisans.net/assets/demo-images/reports2.png">
+
+<img src="http://freelancernotes.techartisans.net/assets/demo-images/reports3.png">
+
+<img src="http://freelancernotes.techartisans.net/assets/demo-images/reports4.png">
 
  
 ##About Laravel PHP Framework

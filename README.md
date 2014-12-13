@@ -45,7 +45,7 @@
 <img src="http://freelancernotes.techartisans.net/assets/demo-images/dashboard.png">
 ### User Inteface
 <img src="http://freelancernotes.techartisans.net/assets/demo-images/new-client.png">
- ### User Inteface
+### User Inteface
 <img src="http://freelancernotes.techartisans.net/assets/demo-images/all-clients.png">
 ### User Inteface
 <img src="http://freelancernotes.techartisans.net/assets/demo-images/new-marketplace.png">

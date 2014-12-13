@@ -38,36 +38,36 @@
     
  If you do everything perfectly then you can access the application
  
-###Login User Inteface
+###Login
 <img src="http://freelancernotes.techartisans.net/assets/demo-images/user-login.png">
 
-### User Inteface
+### Dashboard
 <img src="http://freelancernotes.techartisans.net/assets/demo-images/dashboard.png">
-### User Inteface
+### Add New Client's Info
 <img src="http://freelancernotes.techartisans.net/assets/demo-images/new-client.png">
-### User Inteface
+### All Clients Info
 <img src="http://freelancernotes.techartisans.net/assets/demo-images/all-clients.png">
-### User Inteface
+### Add New Marketplace's Info
 <img src="http://freelancernotes.techartisans.net/assets/demo-images/new-marketplace.png">
-### User Inteface
+### All Marketplaces Info
 <img src="http://freelancernotes.techartisans.net/assets/demo-images/all-marketplaces.png">
-### User Inteface
+### Add New Project's Info
 <img src="http://freelancernotes.techartisans.net/assets/demo-images/new-project.png">
-### User Inteface
+### All Projects Info
 <img src="http://freelancernotes.techartisans.net/assets/demo-images/all-projects.png">
-### User Inteface
+### User Password Change
 <img src="http://freelancernotes.techartisans.net/assets/demo-images/change-pass.png">
-### User Inteface
+### Edit/Update User Profile
 <img src="http://freelancernotes.techartisans.net/assets/demo-images/edit-profile.png">
-### User Inteface
+### Reporting Area
 <img src="http://freelancernotes.techartisans.net/assets/demo-images/reports.png">
-### User Inteface
+### Reports By Marketplace, Client, Date to Date
 <img src="http://freelancernotes.techartisans.net/assets/demo-images/reports1.png">
-### User Inteface
+### Reports By Marketplace
 <img src="http://freelancernotes.techartisans.net/assets/demo-images/reports2.png">
-### User Inteface
+### Reports By Client
 <img src="http://freelancernotes.techartisans.net/assets/demo-images/reports3.png">
-### User Inteface
+### Reports By Date to Date
 <img src="http://freelancernotes.techartisans.net/assets/demo-images/reports4.png">
 
  

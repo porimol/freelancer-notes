@@ -1,4 +1,4 @@
-freelancer
+#Freelancer Notes
 ==========
 
  Freelancer notes is an open source web application

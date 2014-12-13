@@ -1,5 +1,66 @@
 #Freelancer Notes
  Freelancer notes is an open source web application
+#Installation Guide
+
+1) Download or Clone the project from right side
+
+2) Extract from zip (You can change the project name)
+
+3) Copy and paste into your web server root directory
+
+4) Create a database
+
+5) Import the database from your project folder. Database name db_freelancer.sql
+
+6) Modify database configuration file(path app/config/database.php)
+
+   change your database connection info.
+   **Default mysql database info**
+   		'mysql' => array(
+   		
+     'driver' => 'mysql',
+     
+     'host' => 'localhost',
+     
+     'database' => 'db_freelancer',
+     
+     'username' => 'root',
+     
+     'password' => 'admin',
+     
+     'charset' => 'utf8',
+     
+     'collation' => 'utf8_unicode_ci',
+     
+     'prefix' => '',
+     )
+    please make sure you database name, username and pasword(if you have set your database password otherwise leave it blank)
+    
+ If you do everything perfectly then you can access the application
+<img src="http://freelancernotes.techartisans.net/assets/demo-images/user-login.png">
+
+<img src="http://freelancernotes.techartisans.net/assets/demo-images/user-login.png">
+
+<img src="http://freelancernotes.techartisans.net/assets/demo-images/user-login.png">
+    
+<img src="http://freelancernotes.techartisans.net/assets/demo-images/user-login.png">
+
+<img src="http://freelancernotes.techartisans.net/assets/demo-images/user-login.png">
+
+<img src="http://freelancernotes.techartisans.net/assets/demo-images/user-login.png">
+ 
+<img src="http://freelancernotes.techartisans.net/assets/demo-images/user-login.png">
+
+<img src="http://freelancernotes.techartisans.net/assets/demo-images/user-login.png">
+
+<img src="http://freelancernotes.techartisans.net/assets/demo-images/user-login.png">
+    
+<img src="http://freelancernotes.techartisans.net/assets/demo-images/user-login.png">
+
+<img src="http://freelancernotes.techartisans.net/assets/demo-images/user-login.png">
+
+<img src="http://freelancernotes.techartisans.net/assets/demo-images/user-login.png">
+
  
 ##About Laravel PHP Framework
 

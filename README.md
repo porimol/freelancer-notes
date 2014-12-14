@@ -1,5 +1,6 @@
-#Freelancer Notes
- Freelancer notes is an open source web application
+#Waht is Freelancer Notes
+Freelancer Note is an freelance project management application.It is very light weight and easy to use. You are able to manage all your projects in one place. You can keep record of your clients, earnings. You are also able to export project recored in PDF format.
+**Not : ** Freelancer notes is fully open source under [GNU GENERAL PUBLIC LICENSE](https://github.com/Porimol/freelancer-notes/blob/master/LICENSE).
 #Installation Guide
 ###PHP Version Minimum 5.4.0 require
 1) Download or Clone the project from right side

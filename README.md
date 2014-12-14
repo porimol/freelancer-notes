@@ -1,5 +1,5 @@
 #Waht is Freelancer Notes
-Freelancer Note is an freelance project management application.It is very light weight and easy to use. You are able to manage all your projects in one place. You can keep record of your clients, earnings. You are also able to export project record in PDF format.
+Freelancer Note is an freelance project management application.It is very light weight and easy to use. You are able to manage all your projects in one place. You can keep record of your clients, earnings. You are also able to export project recored in PDF format.
 
 **Note :** Freelancer notes is fully open source under [GNU GENERAL PUBLIC LICENSE](https://github.com/Porimol/freelancer-notes/blob/master/LICENSE).
 

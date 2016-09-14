@@ -45,36 +45,36 @@ User : user@user.com
 
 Pass : admin12345
 ###Login
-<img src="http://freelancernotes.techartisans.net/assets/demo-images/user-login.png">
+<img src="https://dl.dropboxusercontent.com/u/148331272/freelancer-notes/User%20login%20--%20OOIS.png">
 
 ### Dashboard
-<img src="http://freelancernotes.techartisans.net/assets/demo-images/dashboard.png">
+<img src="https://dl.dropboxusercontent.com/u/148331272/freelancer-notes/Dashboard%20--%20OOIS.png">
 ### Add New Client's Info
-<img src="http://freelancernotes.techartisans.net/assets/demo-images/new-client.png">
+<img src="https://dl.dropboxusercontent.com/u/148331272/freelancer-notes/Add%20new%20client%20information%20--%20OOIS.png">
 ### All Clients Info
-<img src="http://freelancernotes.techartisans.net/assets/demo-images/all-clients.png">
+<img src="https://dl.dropboxusercontent.com/u/148331272/freelancer-notes/All%20clients%20information%20--%20OOIS.png">
 ### Add New Marketplace's Info
-<img src="http://freelancernotes.techartisans.net/assets/demo-images/new-marketplace.png">
+<img src="https://dl.dropboxusercontent.com/u/148331272/freelancer-notes/Add%20new%20marketplace%20--%20OOIS.png">
 ### All Marketplaces Info
-<img src="http://freelancernotes.techartisans.net/assets/demo-images/all-marketplaces.png">
+<img src="https://dl.dropboxusercontent.com/u/148331272/freelancer-notes/All%20marketplaces%20information%20--%20OOIS.png">
 ### Add New Project's Info
-<img src="http://freelancernotes.techartisans.net/assets/demo-images/new-project.png">
+<img src="https://dl.dropboxusercontent.com/u/148331272/freelancer-notes/New%20project%20information%20--%20OOIS.png">
 ### All Projects Info
-<img src="http://freelancernotes.techartisans.net/assets/demo-images/all-projects.png">
+<img src="https://dl.dropboxusercontent.com/u/148331272/freelancer-notes/All%20projects%20information%20--%20OOIS.png">
 ### User Password Change
-<img src="http://freelancernotes.techartisans.net/assets/demo-images/change-pass.png">
+<img src="https://dl.dropboxusercontent.com/u/148331272/freelancer-notes/Change%20user%20password%20--%20OOIS.png">
 ### Edit/Update User Profile
-<img src="http://freelancernotes.techartisans.net/assets/demo-images/edit-profile.png">
+<img src="https://dl.dropboxusercontent.com/u/148331272/freelancer-notes/Edit%20user%20profile%20--%20OOIS.png">
 ### Reporting Area
-<img src="http://freelancernotes.techartisans.net/assets/demo-images/reports.png">
+<img src="https://dl.dropboxusercontent.com/u/148331272/freelancer-notes/Reports%20--%20OOIS.png">
 ### Reports By Marketplace, Client, Date to Date
-<img src="http://freelancernotes.techartisans.net/assets/demo-images/reports1.png">
+<img src="https://dl.dropboxusercontent.com/u/148331272/freelancer-notes/Reports1%20--%20OOIS.png">
 ### Reports By Marketplace
-<img src="http://freelancernotes.techartisans.net/assets/demo-images/reports2.png">
+<img src="https://dl.dropboxusercontent.com/u/148331272/freelancer-notes/Reports2%20--%20OOIS.png">
 ### Reports By Client
-<img src="http://freelancernotes.techartisans.net/assets/demo-images/reports3.png">
+<img src="https://dl.dropboxusercontent.com/u/148331272/freelancer-notes/Reports3%20--%20OOIS.png">
 ### Reports By Date to Date
-<img src="http://freelancernotes.techartisans.net/assets/demo-images/reports4.png">
+<img src="https://dl.dropboxusercontent.com/u/148331272/freelancer-notes/Reports4%20--%20OOIS.png">
 
  
 ##About Laravel PHP Framework

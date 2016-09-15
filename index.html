@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8">
+    <title>Freelancer-notes by porimol</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
+  </head>
+  <body>
+    <section class="page-header">
+      <h1 class="project-name">Freelancer-notes</h1>
+      <h2 class="project-tagline"> Freelancer notes is an open source web application</h2>
+      <a href="https://github.com/porimol/freelancer-notes" class="btn">View on GitHub</a>
+      <a href="https://github.com/porimol/freelancer-notes/zipball/master" class="btn">Download .zip</a>
+      <a href="https://github.com/porimol/freelancer-notes/tarball/master" class="btn">Download .tar.gz</a>
+    </section>
+
+    <section class="main-content">
+      <h1>
+<a id="what-is-freelancer-notes" class="anchor" href="#what-is-freelancer-notes" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>What is Freelancer Notes</h1>
+
+<p>Freelancer Note is an freelance project management application. It is very light weight and easy to use. You are able to manage all your projects in one place and you can keep record of your all clients and earnings. You are also able to export project record in PDF format.</p>
+
+<p><strong>Note :</strong> Freelancer notes is fully open source under <a href="https://github.com/Porimol/freelancer-notes/blob/master/LICENSE">GNU (GENERAL PUBLIC LICENSE)</a>.</p>
+
+<h1>
+<a id="installation-guide" class="anchor" href="#installation-guide" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Installation Guide</h1>
+
+<h3>
+<a id="php-version-minimum-540-require" class="anchor" href="#php-version-minimum-540-require" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>PHP Version Minimum 5.4.0 require</h3>
+
+<p>1) Download or Clone the project from right side</p>
+
+<p>2) Extract from zip (You can change the project name)</p>
+
+<p>3) Copy and paste into your web server root directory</p>
+
+<p>4) Create a database</p>
+
+<p>5) Import the database from your project folder. Database name db_freelancer.sql</p>
+
+<p>6) Modify database configuration file(path app/config/database.php)</p>
+
+<p>change your database connection info.
+   <strong>Default mysql database info</strong>
+        'mysql' =&gt; array(</p>
+
+<pre><code> 'driver' =&gt; 'mysql',
+
+ 'host' =&gt; 'localhost',
+
+ 'database' =&gt; 'db_freelancer',
+
+ 'username' =&gt; 'root',
+
+ 'password' =&gt; 'admin',
+
+ 'charset' =&gt; 'utf8',
+
+ 'collation' =&gt; 'utf8_unicode_ci',
+
+ 'prefix' =&gt; '',
+ )
+please make sure you database name, username and pasword(if you have set your database password otherwise leave it blank)
+</code></pre>
+
+<p>If you do everything perfectly then you can access the application</p>
+
+<h3>
+<a id="login-information" class="anchor" href="#login-information" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Login Information</h3>
+
+<p>User : <a href="mailto:user@user.com">user@user.com</a></p>
+
+<p>Pass : admin12345</p>
+
+<h3>
+<a id="login" class="anchor" href="#login" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Login</h3>
+
+<p><img src="https://dl.dropboxusercontent.com/u/148331272/freelancer-notes/User%20login%20--%20OOIS.png"></p>
+
+<h3>
+<a id="dashboard" class="anchor" href="#dashboard" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Dashboard</h3>
+
+<p><img src="https://dl.dropboxusercontent.com/u/148331272/freelancer-notes/Dashboard%20--%20OOIS.png"></p>
+
+<h3>
+<a id="add-new-clients-info" class="anchor" href="#add-new-clients-info" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Add New Client's Info</h3>
+
+<p><img src="https://dl.dropboxusercontent.com/u/148331272/freelancer-notes/Add%20new%20client%20information%20--%20OOIS.png"></p>
+
+<h3>
+<a id="all-clients-info" class="anchor" href="#all-clients-info" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>All Clients Info</h3>
+
+<p><img src="https://dl.dropboxusercontent.com/u/148331272/freelancer-notes/All%20clients%20information%20--%20OOIS.png"></p>
+
+<h3>
+<a id="add-new-marketplaces-info" class="anchor" href="#add-new-marketplaces-info" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Add New Marketplace's Info</h3>
+
+<p><img src="https://dl.dropboxusercontent.com/u/148331272/freelancer-notes/Add%20new%20marketplace%20--%20OOIS.png"></p>
+
+<h3>
+<a id="all-marketplaces-info" class="anchor" href="#all-marketplaces-info" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>All Marketplaces Info</h3>
+
+<p><img src="https://dl.dropboxusercontent.com/u/148331272/freelancer-notes/All%20marketplaces%20information%20--%20OOIS.png"></p>
+
+<h3>
+<a id="add-new-projects-info" class="anchor" href="#add-new-projects-info" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Add New Project's Info</h3>
+
+<p><img src="https://dl.dropboxusercontent.com/u/148331272/freelancer-notes/New%20project%20information%20--%20OOIS.png"></p>
+
+<h3>
+<a id="all-projects-info" class="anchor" href="#all-projects-info" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>All Projects Info</h3>
+
+<p><img src="https://dl.dropboxusercontent.com/u/148331272/freelancer-notes/All%20projects%20information%20--%20OOIS.png"></p>
+
+<h3>
+<a id="user-password-change" class="anchor" href="#user-password-change" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>User Password Change</h3>
+
+<p><img src="https://dl.dropboxusercontent.com/u/148331272/freelancer-notes/Change%20user%20password%20--%20OOIS.png"></p>
+
+<h3>
+<a id="editupdate-user-profile" class="anchor" href="#editupdate-user-profile" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Edit/Update User Profile</h3>
+
+<p><img src="https://dl.dropboxusercontent.com/u/148331272/freelancer-notes/Edit%20user%20profile%20--%20OOIS.png"></p>
+
+<h3>
+<a id="reporting-area" class="anchor" href="#reporting-area" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Reporting Area</h3>
+
+<p><img src="https://dl.dropboxusercontent.com/u/148331272/freelancer-notes/Reports%20--%20OOIS.png"></p>
+
+<h3>
+<a id="reports-by-marketplace-client-date-to-date" class="anchor" href="#reports-by-marketplace-client-date-to-date" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Reports By Marketplace, Client, Date to Date</h3>
+
+<p><img src="https://dl.dropboxusercontent.com/u/148331272/freelancer-notes/Reports1%20--%20OOIS.png"></p>
+
+<h3>
+<a id="reports-by-marketplace" class="anchor" href="#reports-by-marketplace" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Reports By Marketplace</h3>
+
+<p><img src="https://dl.dropboxusercontent.com/u/148331272/freelancer-notes/Reports2%20--%20OOIS.png"></p>
+
+<h3>
+<a id="reports-by-client" class="anchor" href="#reports-by-client" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Reports By Client</h3>
+
+<p><img src="https://dl.dropboxusercontent.com/u/148331272/freelancer-notes/Reports3%20--%20OOIS.png"></p>
+
+<h3>
+<a id="reports-by-date-to-date" class="anchor" href="#reports-by-date-to-date" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Reports By Date to Date</h3>
+
+<p><img src="https://dl.dropboxusercontent.com/u/148331272/freelancer-notes/Reports4%20--%20OOIS.png"></p>
+
+<h2>
+<a id="about-laravel-php-framework" class="anchor" href="#about-laravel-php-framework" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>About Laravel PHP Framework</h2>
+
+<p><a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/downloads.svg" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/unstable.svg" alt="Latest Unstable Version"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a></p>
+
+<p>Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, and caching.</p>
+
+<p>Laravel aims to make the development process a pleasing one for the developer without sacrificing application functionality. Happy developers make the best code. To this end, we've attempted to combine the very best of what we have seen in other web frameworks, including frameworks implemented in other languages, such as Ruby on Rails, ASP.NET MVC, and Sinatra.</p>
+
+<p>Laravel is accessible, yet powerful, providing powerful tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.</p>
+
+<h2>
+<a id="official-documentation" class="anchor" href="#official-documentation" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Official Documentation</h2>
+
+<p>Documentation for the entire framework can be found on the <a href="http://laravel.com/docs">Laravel website</a>.</p>
+
+<h3>
+<a id="contributing-to-laravel" class="anchor" href="#contributing-to-laravel" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Contributing To Laravel</h3>
+
+<p><strong>All issues and pull requests should be filed on the <a href="http://github.com/laravel/framework">laravel/framework</a> repository.</strong></p>
+
+<h3>
+<a id="license" class="anchor" href="#license" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>License</h3>
+
+<p>The Laravel framework is open-sourced software licensed under the <a href="http://opensource.org/licenses/MIT">MIT license</a></p>
+
+      <footer class="site-footer">
+        <span class="site-footer-owner"><a href="https://github.com/porimol/freelancer-notes">Freelancer-notes</a> is maintained by <a href="https://github.com/porimol">porimol</a>.</span>
+
+        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a> using the <a href="https://github.com/jasonlong/cayman-theme">Cayman theme</a> by <a href="https://twitter.com/jasonlong">Jason Long</a>.</span>
+      </footer>
+
+    </section>
+
+  
+  </body>
+</html>

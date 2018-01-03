@@ -50,13 +50,13 @@ Pass : admin12345
 ### Dashboard
 <img src="https://dl.dropboxusercontent.com/u/148331272/freelancer-notes/Dashboard%20--%20OOIS.png">
 ### Add New Client's Info
-<img src="https://dl.dropboxusercontent.com/u/148331272/freelancer-notes/Add%20new%20client%20information%20--%20OOIS.png">
+<img src="https://www.dropbox.com/s/vtn7v248g6hw5e0/Add%20new%20client%20information%20--%20OOIS.png?dl=0">
 ### All Clients Info
-<img src="https://dl.dropboxusercontent.com/u/148331272/freelancer-notes/All%20clients%20information%20--%20OOIS.png">
+<img src="https://www.dropbox.com/s/cszosep72vble8s/All%20clients%20information%20--%20OOIS.png?dl=0">
 ### Add New Marketplace's Info
-<img src="https://dl.dropboxusercontent.com/u/148331272/freelancer-notes/Add%20new%20marketplace%20--%20OOIS.png">
+<img src="https://www.dropbox.com/s/9kaw2j7gfvcpdf6/Add%20new%20marketplace%20--%20OOIS.png?dl=0">
 ### All Marketplaces Info
-<img src="https://dl.dropboxusercontent.com/u/148331272/freelancer-notes/All%20marketplaces%20information%20--%20OOIS.png">
+<img src="https://www.dropbox.com/s/oe2k8ajdgqbgo5i/All%20marketplaces%20information%20--%20OOIS.png?dl=0">
 ### Add New Project's Info
 <img src="https://dl.dropboxusercontent.com/u/148331272/freelancer-notes/New%20project%20information%20--%20OOIS.png">
 ### All Projects Info
